@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @subhasish-sahu-Git
+# 👋 Hi, I’m subhasish sahu
 
 ## About Me
 - 👀 I’m interested in technology, with a focus on **Front End Web Development**, **Web Development Fundamentals**, and **Project Management Fundamentals**.
