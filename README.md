@@ -8,7 +8,7 @@
   - LinkedIn: [www.linkedin.com/in/subhasishsahu-](https://www.linkedin.com/in/subhasishsahu-)
   - Credly: [www.credly.com/users/subhasish.sahu](https://www.credly.com/users/subhasish.sahu)
   
-- ⚡ Fun fact: I’m passionate about continuous learning and driven by curiosity to understand how things work.
+- ⚡ I’m passionate about continuous learning and driven by curiosity to understand how things work.
 
 ## Skills
 - **Front End Web Development**
