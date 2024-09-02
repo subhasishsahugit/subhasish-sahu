@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning advanced web development techniques and exploring new technologies in computer science.
 - 💞️ I’m looking to collaborate on exciting web development projects that challenge my skills and contribute to the community.
 - 📫 How to reach me: 
-  - LinkedIn: [www.linkedin.com/in/subhasishsahu-](https://www.linkedin.com/in/subhasishsahu-)
-  - Credly: [www.credly.com/users/subhasish.sahu](https://www.credly.com/users/subhasish.sahu)
+  - LinkedIn: [LinkedIn](www.linkedin.com/in/subhasish-sahu-)
+  - Credly: [Credly](https://www.credly.com/users/subhasish.sahu)
   
 - ⚡ I’m passionate about continuous learning and driven by curiosity to understand how things work.
 
