@@ -6,6 +6,6 @@
 - 💞️ I’m looking to collaborate on exciting projects that challenge my skills and contribute to the community.
 - 📫 How to reach me: 
   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/subhasish-sahu-)
-  - Credly: [Credly]([https://www.credly.com/users/subhasishsahu)
+  - Credly: [Credly](https://www.credly.com/users/subhasishsahu)
   
 - ⚡ I’m passionate about continuous learning and driven by curiosity to understand how things work.
