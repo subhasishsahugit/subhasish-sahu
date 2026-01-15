@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a computer enthusiast with a deep passion for 
 
 ### 📫 Let's Connect
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/subhasishsahu_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhasish-sahu-) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/subhasishsahu_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasish-sahu-) 
 [![Credly](https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly)](https://www.credly.com/users/subhasishsahu)
 
 ## 💻 Tech Stack:
