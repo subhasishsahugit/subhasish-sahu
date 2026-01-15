@@ -2,6 +2,14 @@
 
 ## About Me
 
+<p align="left">
+  <a href="https://github.com/subhasishsahugit/subhasish-sahu">
+    <img src="https://komarev.com/ghpvc/?username=subhasishsahugit" alt="page views" />
+  </a>
+<a href="https://github.com/subhasishsahugit?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/subhasishsahugit?style=flat&logo=github">
+</a>
+
 Welcome to my GitHub profile! I'm a computer enthusiast with a deep passion for **STEM** (Science, Technology, Engineering, Mathematics). Here's a bit more about me:
 
 ### 🌱 Learning and Growing
