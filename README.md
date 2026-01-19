@@ -37,6 +37,9 @@ Welcome to my GitHub profile! I'm a computer enthusiast with a deep passion for 
   <a href="https://www.credly.com/users/subhasishsahu">
     <img src="https://img.shields.io/badge/credly-badges-%23ff6a00?logo=credly" alt="Credly" />
   </a>
+  <a href="https://huggingface.co/IamAGI">
+    <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Huggingface" />
+  </a>
 </p>
 
 ## 💻 Tech Stack:
