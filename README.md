@@ -39,14 +39,11 @@
 
 ```yaml
 name: Subhasish Sahu
-located_in: Ganjam, Odisha, India
+located_in: 🌏
 current_education: B.Tech in Computer Science & Engineering
-university: NIST University, Berhampur
-year: 3rd Year (2024-2027)
-current_sgpa: 8.22
-phone: ["+91 9861189010", "+91 9178227094"]
-email: "subhasissahu96@gmail.com"
-
+Student of Computer science and engineering in path of becoming best version of my self with interest in cutting-edge technology.
+Passionate about continuous learning driven by curiosity to understand how things work.
+Eager to contribute to advancements in technology while growing my expertise and knowledge.
 interests:
   - Full Stack Development
   - Data Analytics & Visualization
@@ -76,7 +73,6 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ### 🎓 B.Tech in Computer Science & Engineering
 **NIST University (Institute of Science and Technology)**  
-📍 Berhampur, Odisha  
 📅 August 2024 - May 2027 (Expected)  
 📊 **Current SGPA:** 8.22/10  
 
@@ -85,7 +81,6 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ### 📜 Diploma in Computer Science & Engineering
 **Uma Charan Patnaik Engineering School (UCPES)**  
-📍 Board: SCTE&VT, Odisha  
 📅 2021 - 2024  
 📊 **Performance:** 81.65%  
 
@@ -282,6 +277,8 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ## 🤝 Let's Connect!
 
+### 📞 Contacts
+
 <div align="center">
 
 ### 💬 I'm always open to interesting conversations and collaboration opportunities!
@@ -306,12 +303,7 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ### 📍 Location
 
-**Tulu Road, Ganesh Nagar, Kanisi, Ganjam, Odisha - 761008**
-
-### 📞 Contact
-
-**Primary:** +91 9861189010 | **Alternate:** +91 9178227094
-
+**🌏**
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
