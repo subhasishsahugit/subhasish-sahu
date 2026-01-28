@@ -1,10 +1,6 @@
 <div align="center">
-  
-# 👨‍💻 SUBHASISH SAHU
-
-### 3rd Year B.Tech CSE Student | Full Stack Developer | Data Analytics | AI/ML Enthusiast
-
-<p>
+  <h1>👨‍💻 SUBHASISH SAHU</h1>
+  <h3>3rd Year B.Tech CSE Student | Full Stack Developer | Data Analytics | AI/ML Enthusiast</h3>
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
     <img src="https://img.shields.io/badge/Portfolio-subhasishsahugit.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -73,27 +69,24 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 <td width="50%">
 
 ### 🎓 B.Tech in Computer Science & Engineering
-**NIST University (Institute of Science and Technology)**  
 📅 August 2024 - May 2027 (Expected)  
-📊 **Current SGPA:** 8.22/10  
+📊 <b>Current SGPA: 8.22/10  </b>
 
 </td>
 <td width="50%">
 
-### 📜 Diploma in Computer Science & Engineering
-**Uma Charan Patnaik Engineering School (UCPES)**  
+<h3> 📜 Diploma in Computer Science & Engineering</h3>
 📅 2021 - 2024  
-📊 **Performance:** 81.65%  
+📊 <b>Performance: 81.65%  </b>
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 🏫 High School Certificate (HSC)
-**Board of Secondary Education (BSE), Odisha**  
+<h3> 🏫 High School Certificate (HSC)</h3>
 📅 Passed 2021  
-📊 **Performance:** 80.33% (Grade A2)
+📊 <b>Performance: 80.33% (Grade A2)</b>
 
 </td>
 </tr>
@@ -211,7 +204,7 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 <tr>
 <td width="33%" align="center">
 
-### 💻 Full Stack Development
+<h3> 💻 Full Stack Development</h3>
 - Frontend: HTML5, CSS3, JavaScript
 - Responsive Web Design
 - UI/UX Implementation
@@ -220,7 +213,7 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 </td>
 <td width="33%" align="center">
 
-### 📊 Data Analytics
+<h3> 📊 Data Analytics</h3>
 - Data Collection & Curation
 - Data Analysis (Python)
 - Data Visualization
@@ -230,7 +223,7 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 </td>
 <td width="33%" align="center">
 
-### 🤖 AI/ML & Emerging Tech
+<h3> 🤖 AI/ML & Emerging Tech</h3>
 - Machine Learning Basics
 - NLP & ASR Applications
 - AI Model Training
@@ -278,11 +271,11 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ## 🤝 Let's Connect!
 
-### 📞 Contacts
+<h3>📞 Contacts</h3>
 
 <div align="center">
 
-### 💬 I'm always open to interesting conversations and collaboration opportunities!
+<h3> 💬 I'm always open to interesting conversations and collaboration opportunities!</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/subhasish-sahu/">
@@ -302,14 +295,14 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
   </a>
 </p>
 
-### 📍 Location
+<h3> 📍 Location</h3>
 
 **🌏**
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-### 🚀 *"Passionate about technology. Committed to continuous learning. Ready to make an impact."*
+<h3> 🚀 <b>"Passionate about technology. Committed to continuous learning. Ready to make an impact."</b></h3>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/subhasishsahugit">Subhasish Sahu</a></i>
