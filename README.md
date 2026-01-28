@@ -41,7 +41,8 @@
 name: Subhasish Sahu
 located_in: 🌏
 current_education: B.Tech in Computer Science & Engineering
-Student of Computer science and engineering in path of becoming best version of my self with interest in cutting-edge technology.
+Student of Computer science and engineering in path of becoming best version of my self
+with interest in cutting-edge technology.
 Passionate about continuous learning driven by curiosity to understand how things work.
 Eager to contribute to advancements in technology while growing my expertise and knowledge.
 interests:
