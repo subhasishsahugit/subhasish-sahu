@@ -4,10 +4,23 @@
 
 ### 3rd Year B.Tech CSE Student | Full Stack Developer | Data Analytics | AI/ML Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-subhasishsahugit.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhasishsahugit.github.io/subhasish-sahu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhasish_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasish-sahu/)
-[![Email](https://img.shields.io/badge/Email-subhasissahu96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasissahu96@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-subhasishsahu__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhasishsahu_)
+<p>
+  <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
+    <img src="https://img.shields.io/badge/Portfolio-subhasishsahugit.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhasish-sahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhasish_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:subhasissahu96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-subhasissahu96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/subhasishsahu_">
+    <img src="https://img.shields.io/badge/Instagram-subhasishsahu__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/subhasishsahugit/subhasish-sahu">
@@ -130,81 +143,28 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 ## 🏆 Certifications & Training
 
 ### 📊 Data Science & AI
-<table>
-<tr>
-<td>
 
-![IBM](https://img.shields.io/badge/IBM-Big_Data_101-054ADA?style=flat&logo=ibm&logoColor=white)  
-**Big Data 101** - IBM SkillsBuild  
-*July 2025*
-
-</td>
-<td>
-
-![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat&logo=python&logoColor=white)  
-**Data Analysis with Python** - United Latino Students Association  
-*July 2025*
-
-</td>
-</tr>
-<tr>
-<td>
-
-![AI Campus](https://img.shields.io/badge/AI_Campus-Data_Fundamentals-FF6F00?style=flat&logo=google&logoColor=white)  
-**Data Fundamentals** - AI Campus Connect  
-*July 2025*
-
-</td>
-<td>
-
-![Coursera](https://img.shields.io/badge/Coursera-AI_For_Everyone-0056D2?style=flat&logo=coursera&logoColor=white)  
-**AI For Everyone** - Coursera  
-*July 2024*
-
-</td>
-</tr>
-</table>
+| Certification | Details |
+|---------------|---------|
+| ![IBM](https://img.shields.io/badge/IBM-Big_Data_101-054ADA?style=flat&logo=ibm&logoColor=white) | **Big Data 101**<br/>IBM SkillsBuild<br/>*July 2025* |
+| ![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat&logo=python&logoColor=white) | **Data Analysis with Python**<br/>United Latino Students Association<br/>*July 2025* |
+| ![AI Campus](https://img.shields.io/badge/AI_Campus-Data_Fundamentals-FF6F00?style=flat&logo=google&logoColor=white) | **Data Fundamentals**<br/>AI Campus Connect<br/>*July 2025* |
+| ![Coursera](https://img.shields.io/badge/Coursera-AI_For_Everyone-0056D2?style=flat&logo=coursera&logoColor=white) | **AI For Everyone**<br/>Coursera<br/>*July 2024* |
 
 ### 🌐 Networking & Hardware (Cisco Networking Academy)
-<table>
-<tr>
-<td>
 
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_Enterprise-1BA0D7?style=flat&logo=cisco&logoColor=white)  
-**CCNA: Enterprise Networking, Security, and Automation**  
-*November 2023*
-
-</td>
-<td>
-
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_Intro_to_Networks-1BA0D7?style=flat&logo=cisco&logoColor=white)  
-**CCNA: Introduction to Networks**  
-*May 2023*
-
-</td>
-</tr>
-<tr>
-<td>
-
-![IT Essentials](https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white)  
-**IT Essentials**  
-*May 2022*
-
-</td>
-<td>
-
-![Hardware](https://img.shields.io/badge/Cisco-Computer_Hardware-1BA0D7?style=flat&logo=cisco&logoColor=white)  
-**Computer Hardware & Maintenance**  
-*May 2024*
-
-</td>
-</tr>
-</table>
+| Certification | Details |
+|---------------|---------|
+| ![CCNA](https://img.shields.io/badge/Cisco-CCNA_Enterprise-1BA0D7?style=flat&logo=cisco&logoColor=white) | **CCNA: Enterprise Networking, Security, and Automation**<br/>*November 2023* |
+| ![CCNA](https://img.shields.io/badge/Cisco-CCNA_Intro_to_Networks-1BA0D7?style=flat&logo=cisco&logoColor=white) | **CCNA: Introduction to Networks**<br/>*May 2023* |
+| ![IT Essentials](https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white) | **IT Essentials**<br/>*May 2022* |
+| ![Hardware](https://img.shields.io/badge/Cisco-Computer_Hardware-1BA0D7?style=flat&logo=cisco&logoColor=white) | **Computer Hardware & Maintenance**<br/>*May 2024* |
 
 ### 💻 Web Development
-![Web Dev](https://img.shields.io/badge/IBM-Web_Development_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)  
-**Web Development Fundamentals** - IBM SkillsBuild  
-*July 2024*
+
+| Certification | Details |
+|---------------|---------|
+| ![Web Dev](https://img.shields.io/badge/IBM-Web_Development_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white) | **Web Development Fundamentals**<br/>IBM SkillsBuild<br/>*July 2024* |
 
 ---
 
@@ -290,12 +250,18 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhasishsahugit&theme=radical&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&theme=radical&hide_border=true&layout=compact&langs_count=8)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhasishsahugit&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -320,15 +286,30 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 
 ### 💬 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasish-sahu/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasissahu96@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhasishsahugit.github.io/subhasish-sahu/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhasishsahu_)
+<p>
+  <a href="https://www.linkedin.com/in/subhasish-sahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:subhasissahu96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/subhasishsahu_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ### 📍 Location
+
 **Tulu Road, Ganesh Nagar, Kanisi, Ganjam, Odisha - 761008**
 
 ### 📞 Contact
+
 **Primary:** +91 9861189010 | **Alternate:** +91 9178227094
 
 ---
