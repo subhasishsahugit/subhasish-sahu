@@ -1,13 +1,15 @@
 <div align="center">
   <h1>👨‍💻 SUBHASISH SAHU</h1>
   <h3>3rd Year B.Tech CSE Student | Full Stack Developer | Data Analytics | AI/ML Enthusiast</h3>
+  <a href="https://flowcv.com/resume/3bj1qd6s1gwd">
+    <img src="https://img.shields.io/badge/MY_ATS-RESUME-red?style=for-the-badge" alt="RESUME" />
+  </a>
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
     <img src="https://img.shields.io/badge/Portfolio-subhasishsahugit.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/subhasish-sahu/">
     <img src="https://img.shields.io/badge/LinkedIn-Subhasish_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
 
 <p>
   <a href="mailto:subhasissahu96@gmail.com">
@@ -68,7 +70,7 @@ open_to: ["Internships", "Collaborations", "Guidance", "Real-World Projects"]
 <tr>
 <td width="50%">
 
-### 🎓 B.Tech in Computer Science & Engineering
+<h3> 🎓 B.Tech in Computer Science & Engineering</h3>
 📅 August 2024 - May 2027 (Expected)  
 📊 <b>Current SGPA: 8.22/10  </b>
 
