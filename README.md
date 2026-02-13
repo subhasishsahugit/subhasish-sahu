@@ -101,12 +101,12 @@ open_to:
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Education
 
-<table>
+<table markdown="1">
 <tr>
-<td width="70">
+<td width="70" markdown="1">
   <img src="https://img.shields.io/badge/🎓-B.Tech-blue?style=for-the-badge" alt="B.Tech" />
 </td>
-<td>
+<td markdown="1">
 
 ### B.Tech, Computer Science & Engineering — [NIST University](https://nist.edu/) (BPUT Board)
 📅 **August 2024 – Present** &nbsp;|&nbsp; 📍 Ganjam, Odisha &nbsp;|&nbsp; 📊 **SGPA: 8.22 / 10**
@@ -116,10 +116,10 @@ Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks,
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
   <img src="https://img.shields.io/badge/📜-Diploma-green?style=for-the-badge" alt="Diploma" />
 </td>
-<td>
+<td markdown="1">
 
 ### Diploma, Computer Science & Engineering — UCPES (SCTE & VT Board)
 📅 **2021 – 2024** &nbsp;|&nbsp; 📍 Odisha &nbsp;|&nbsp; 📊 **Performance: 81.65%**
@@ -129,10 +129,10 @@ Completed three-year technical diploma at Uma Charan Patnaik Engineering School.
 </td>
 </tr>
 <tr>
-<td>
+<td markdown="1">
   <img src="https://img.shields.io/badge/🏫-HSC-orange?style=for-the-badge" alt="HSC" />
 </td>
-<td>
+<td markdown="1">
 
 ### High School Certificate — BSE Odisha
 📅 **2011 – 2021** &nbsp;|&nbsp; 📍 Odisha &nbsp;|&nbsp; 📊 **Performance: 80.33% (Grade A2)**
@@ -201,9 +201,9 @@ Completed a 6-week project-integrated learning experience focused on Front End W
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<table>
+<table markdown="1">
 <tr>
-<td width="50%">
+<td width="50%" markdown="1">
 
 ### 🍽️ FoodSave — AI Food Wastage Reduction
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
@@ -229,7 +229,7 @@ A web-based application designed to **reduce food wastage** by connecting hotels
 **Tech Stack:** `Python` `Machine Learning` `Web Development` `REST APIs`
 
 </td>
-<td width="50%">
+<td width="50%" markdown="1">
 
 ### 📚 SEMICOLON — Educational Resource Portal
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
@@ -257,7 +257,7 @@ A comprehensive **e-learning platform** to facilitate digital education, deploye
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" markdown="1">
 
 ### 🌱 Auto Irrigation System — IoT Lab Project
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
@@ -284,7 +284,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 </tr>
 </table>
 
-<div align="center">
+<div align="center" markdown="1">
 
 #### 📌 Pinned Repository Cards
 
@@ -309,7 +309,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack & Skills
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -360,9 +360,9 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ## 🎯 Core Competencies
 
-<table>
+<table markdown="1">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 💻 Full Stack Development
 ```
@@ -375,7 +375,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 📊 Data Analytics & Science
 ```
@@ -388,7 +388,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 🤖 AI/ML & NLP
 ```
@@ -403,7 +403,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 🔗 Networking & Security
 ```
@@ -415,7 +415,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 📡 IoT & Embedded
 ```
@@ -427,7 +427,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" markdown="1">
 
 ### 📋 Professional Skills
 ```
@@ -491,7 +491,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ## 🗣️ Languages
 
-<div align="center">
+<div align="center" markdown="1">
 
 ![Odia](https://img.shields.io/badge/Odia-Native_Speaker-FF6B35?style=for-the-badge)
 ![Hindi](https://img.shields.io/badge/Hindi-Native_Speaker-138808?style=for-the-badge)
@@ -505,7 +505,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
 
-<div align="center">
+<div align="center" markdown="1">
 
 <!-- GitHub Trophies -->
 <p>
@@ -541,7 +541,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ## 🏅 Badges & Achievements
 
-<div align="center">
+<div align="center" markdown="1">
 <p>
   <a href="https://www.credly.com/users/subhasishsahu">
     <img src="https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
@@ -570,7 +570,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <p>
   <a href="https://www.linkedin.com/in/subhasish-sahu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:subhasissahu96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -597,7 +597,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== ANIMATED NAME BANNER ===== -->
 
-<div align="center">
+<div align="center" markdown="1">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Subhasish%20Sahu&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CS%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Analyst&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" style="max-width: 100%;" alt="Header" />
 </div>
 
