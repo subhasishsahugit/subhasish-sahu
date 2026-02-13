@@ -1,6 +1,3 @@
-<!-- ===== ANIMATED WAVE HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Subhasish%20Sahu&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CS%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Analyst&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
-
 <div align="center">
 
 <!-- ===== TYPING SVG ===== -->
@@ -61,7 +58,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp; About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="max-width: 40%;" alt="Coding GIF" />
 
 3rd-year **Computer Science & Engineering** student at **[NIST University](https://nist.edu/), Odisha** with practical experience in **Data Analytics, Artificial Intelligence, Machine Learning, IoT,** and **Full Stack Development**. Proven track record of building high-precision NLP datasets and responsive web applications. Passionate about solving real-world problems through technology.
 
@@ -292,16 +289,16 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 #### 📌 Pinned Repository Cards
 
 <a href="https://github.com/subhasishsahugit/FoodSave">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=FoodSave&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="FoodSave Repo" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=FoodSave&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="FoodSave Repo" />
 </a>
 <a href="https://github.com/subhasishsahugit/Elearning">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=Elearning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Elearning Repo" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=Elearning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Elearning Repo" />
 </a>
 <a href="https://github.com/subhasishsahugit/diploma-Iot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=diploma-Iot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="diploma-Iot Repo" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=diploma-Iot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="diploma-Iot Repo" />
 </a>
 <a href="https://github.com/subhasishsahugit/subhasish-sahu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=subhasish-sahu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Profile Repo" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=subhasish-sahu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Profile Repo" />
 </a>
 
 </div>
@@ -512,28 +509,28 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- GitHub Trophies -->
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=subhasishsahugit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=subhasishsahugit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 <!-- Stats & Streak side by side -->
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhasishsahugit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=subhasishsahugit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img width="40%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
+<img width="98%" style="max-width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasish-sahu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasish-sahu/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/subhasishsahugit/subhasish-sahu/output/github-snake.svg" style="max-width: 100%;" />
 </picture>
 
 </div>
@@ -598,11 +595,17 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ---
 
+<!-- ===== ANIMATED WAVE HEADER (moved to bottom) ===== -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Subhasish%20Sahu&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CS%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Analyst&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" style="max-width: 100%;" alt="Header" />
+</div>
+
 <!-- ===== FOOTER ===== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" style="max-width: 100%;" alt="Footer" />
 
 <br/>
 
