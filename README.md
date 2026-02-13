@@ -595,7 +595,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ---
 
-<!-- ===== ANIMATED WAVE HEADER (moved to bottom) ===== -->
+<!-- ===== ANIMATED NAME BANNER ===== -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Subhasish%20Sahu&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=CS%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Data%20Analyst&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" style="max-width: 100%;" alt="Header" />
