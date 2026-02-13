@@ -30,10 +30,10 @@
   <a href="https://github.com/subhasishsahugit">
     <img src="https://img.shields.io/badge/GitHub-subhasishsahugit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/subhasishsahu96/">
+  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/subhasishsahu96">
+  <a href="https://www.hackerrank.com/profile/Newagi2026">
     <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://www.instagram.com/subhasishsahu_">
@@ -63,12 +63,12 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 
-3rd-year **Computer Science & Engineering** student at **NIST University, Odisha** with practical experience in **Data Analytics, Artificial Intelligence, Machine Learning, IoT,** and **Full Stack Development**. Proven track record of building high-precision NLP datasets and responsive web applications. Passionate about solving real-world problems through technology.
+3rd-year **Computer Science & Engineering** student at **[NIST University](https://nist.edu/), Odisha** with practical experience in **Data Analytics, Artificial Intelligence, Machine Learning, IoT,** and **Full Stack Development**. Proven track record of building high-precision NLP datasets and responsive web applications. Passionate about solving real-world problems through technology.
 
 ```yaml
 name: Subhasish Sahu
 location: Odisha, India 🇮🇳
-education: B.Tech in Computer Science & Engineering (NIST University)
+education: B.Tech in Computer Science & Engineering (NIST University — https://nist.edu/)
 current_sgpa: 8.22 / 10
 
 interests:
@@ -111,10 +111,10 @@ open_to:
 </td>
 <td>
 
-### B.Tech, Computer Science & Engineering — NIST University (BPUT Board)
+### B.Tech, Computer Science & Engineering — [NIST University](https://nist.edu/) (BPUT Board)
 📅 **August 2024 – Present** &nbsp;|&nbsp; 📍 Ganjam, Odisha &nbsp;|&nbsp; 📊 **SGPA: 8.22 / 10**
 
-Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks, Data Structures & Algorithms, Operating Systems, Computer Organisation & Architecture,** and **DBMS**. Developed strong coding skills in **C, Java, and Python**. Primary specializations: **AI/ML, Full-Stack Development, and Data Science**. Currently building *FoodSave*, a full-stack platform with ML integration for food wastage reduction.
+Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks, Data Structures & Algorithms, Operating Systems, Computer Organisation & Architecture,** and **DBMS**. Developed strong coding skills in **C, Java, and Python**. Primary specializations: **AI/ML, Full-Stack Development, and Data Science**. Currently building *[FoodSave](https://subhasishsahugit.github.io/FoodSave/)*, a full-stack platform with ML integration for food wastage reduction.
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks,
 ### Diploma, Computer Science & Engineering — UCPES (SCTE & VT Board)
 📅 **2021 – 2024** &nbsp;|&nbsp; 📍 Odisha &nbsp;|&nbsp; 📊 **Performance: 81.65%**
 
-Completed three-year technical diploma at Uma Charan Patnaik Engineering School. Focused on core CS fundamentals: **C Programming, Java, Python, Web Development, DBMS, Operating Systems, and Data Structures**. Developed strong practical skills through hands-on lab sessions. Final semester projects: *Educational Resource Portal* (Web Development major) and *Auto Irrigation System* (IoT Lab).
+Completed three-year technical diploma at Uma Charan Patnaik Engineering School. Focused on core CS fundamentals: **C Programming, Java, Python, Web Development, DBMS, Operating Systems, and Data Structures**. Developed strong practical skills through hands-on lab sessions. Final semester projects: *[Educational Resource Portal](https://subhasishsahugit.github.io/Elearning/)* (Web Development major) and *[Auto Irrigation System](https://subhasishsahugit.github.io/diploma-Iot/)* (IoT Lab).
 
 </td>
 </tr>
@@ -212,7 +212,14 @@ Completed a 6-week project-integrated learning experience focused on Front End W
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
 ![Duration](https://img.shields.io/badge/📅-Jan_2026_→_Present-blue?style=flat-square)
 
-> **NIST University — B.Tech Project**
+> **[NIST University](https://nist.edu/) — B.Tech Project**
+
+<a href="https://subhasishsahugit.github.io/FoodSave/">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-28a745?style=for-the-badge" alt="Live Demo" />
+</a>
+<a href="https://github.com/subhasishsahugit/FoodSave">
+  <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
 A web-based application designed to **reduce food wastage** by connecting hotels/restaurants (donors) with NGOs (receivers) in real time.
 
@@ -232,6 +239,13 @@ A web-based application designed to **reduce food wastage** by connecting hotels
 ![Duration](https://img.shields.io/badge/📅-2023_→_2024-blue?style=flat-square)
 
 > **UCPES — Diploma Final Semester Major Project**
+
+<a href="https://subhasishsahugit.github.io/Elearning/">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-28a745?style=for-the-badge" alt="Live Demo" />
+</a>
+<a href="https://github.com/subhasishsahugit/Elearning">
+  <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
 A comprehensive **e-learning platform** to facilitate digital education, deployed via GitHub Pages.
 
@@ -254,6 +268,13 @@ A comprehensive **e-learning platform** to facilitate digital education, deploye
 
 > **UCPES — Diploma IoT Lab Project**
 
+<a href="https://subhasishsahugit.github.io/diploma-Iot/">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-28a745?style=for-the-badge" alt="Live Demo" />
+</a>
+<a href="https://github.com/subhasishsahugit/diploma-Iot">
+  <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+
 An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 - 🌡️ Integrated environmental sensors (soil moisture) with microcontrollers for real-time field data monitoring
@@ -265,6 +286,25 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+#### 📌 Pinned Repository Cards
+
+<a href="https://github.com/subhasishsahugit/FoodSave">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=FoodSave&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="FoodSave Repo" />
+</a>
+<a href="https://github.com/subhasishsahugit/Elearning">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=Elearning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Elearning Repo" />
+</a>
+<a href="https://github.com/subhasishsahugit/diploma-Iot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=diploma-Iot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="diploma-Iot Repo" />
+</a>
+<a href="https://github.com/subhasishsahugit/subhasish-sahu">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=subhasish-sahu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Profile Repo" />
+</a>
+
+</div>
 
 ---
 
@@ -470,6 +510,11 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <div align="center">
 
+<!-- GitHub Trophies -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=subhasishsahugit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
 <!-- Stats & Streak side by side -->
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
@@ -483,6 +528,13 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/subhasishsahugit/subhasishsahugit/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -500,11 +552,11 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
   <a href="https://huggingface.co/IamAGI">
     <img src="https://img.shields.io/badge/🤗_HuggingFace-IamAGI-FFD21E?style=for-the-badge" alt="HuggingFace" />
   </a>
-  <a href="https://leetcode.com/u/subhasishsahu96/">
-    <img src="https://img.shields.io/badge/LeetCode-subhasishsahu96-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/subhasishsahu96">
-    <img src="https://img.shields.io/badge/HackerRank-subhasishsahu96-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/profile/Newagi2026">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 </div>
@@ -531,6 +583,12 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
   </a>
   <a href="https://github.com/subhasishsahugit">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Newagi2026">
+    <img src="https://img.shields.io/badge/HackerRank-Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
