@@ -302,24 +302,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 </tr>
 </table>
 
-<div align="center" markdown="1">
 
-#### 📌 Pinned Repository Cards
-
-<a href="https://github.com/subhasishsahugit/FoodSave">
-  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=FoodSave&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="FoodSave Repo" />
-</a>
-<a href="https://github.com/subhasishsahugit/Elearning">
-  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=Elearning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Elearning Repo" />
-</a>
-<a href="https://github.com/subhasishsahugit/diploma-Iot">
-  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=diploma-Iot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="diploma-Iot Repo" />
-</a>
-<a href="https://github.com/subhasishsahugit/subhasish-sahu">
-  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=subhasishsahugit&repo=subhasish-sahu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Profile Repo" />
-</a>
-
-</div>
 
 ---
 
@@ -553,9 +536,8 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- Top Languages -->
 <p>
-  <img width="40%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhasish-sahu&theme=tokyonight" alt="Top Languages Card" />
 </p>
-
 <!-- Activity Graph -->
 <img width="98%" style="max-width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 
