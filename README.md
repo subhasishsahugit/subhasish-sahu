@@ -150,48 +150,63 @@ Completed three-year technical diploma at Uma Charan Patnaik Engineering School.
 <!-- IBM DA Intern -->
 <details open>
 <summary><b>🔷 Data Analytics Intern — IBM SkillsBuild Student Ambassador Program</b></summary>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;📅 **June 2025 – August 2025** &nbsp;|&nbsp; 📍 Remote &nbsp;|&nbsp; 🏢 IBM SkillsBuild × CSRBOX
+&nbsp;&nbsp;&nbsp;&nbsp;📅 <b>June 2025 – August 2025</b> &nbsp;|&nbsp; 📍 Remote &nbsp;|&nbsp; 🏢 IBM SkillsBuild × CSRBOX
 
-Completed a remote internship as part of the Student Ambassador Program with IBM SkillsBuild. This was a project-integrated learning experience organized in collaboration with CSRBOX, focused on hands-on data analysis using Python and practical data science projects.
+<p>Completed a remote internship as part of the Student Ambassador Program with IBM SkillsBuild. This was a project-integrated learning experience organized in collaboration with CSRBOX, focused on hands-on data analysis using Python and practical data science projects.</p>
 
-| Area | Details |
-|------|---------|
-| 📊 **Focus** | Data Analysis using Python, Data Visualization, Big Data Fundamentals |
-| 🛠️ **Tech** | Python, Pandas, NumPy, Matplotlib, Jupyter Notebooks |
-| 🎯 **Outcome** | Completed practical projects analyzing real-world datasets and creating meaningful visualizations |
+<table>
+<thead>
+<tr><th>Area</th><th>Details</th></tr>
+</thead>
+<tbody>
+<tr><td>📊 <b>Focus</b></td><td>Data Analysis using Python, Data Visualization, Big Data Fundamentals</td></tr>
+<tr><td>🛠️ <b>Tech</b></td><td>Python, Pandas, NumPy, Matplotlib, Jupyter Notebooks</td></tr>
+<tr><td>🎯 <b>Outcome</b></td><td>Completed practical projects analyzing real-world datasets and creating meaningful visualizations</td></tr>
+</tbody>
+</table>
 
 </details>
 
 <!-- DesiCrew -->
 <details open>
 <summary><b>🔷 Freelance Data Curator — DesiCrew Solutions Private Limited</b></summary>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;📅 **September 2024 – January 2025** &nbsp;|&nbsp; 📍 Remote
+&nbsp;&nbsp;&nbsp;&nbsp;📅 <b>September 2024 – January 2025</b> &nbsp;|&nbsp; 📍 Remote
 
-Specialized in building high-precision datasets for AI training. Managed the entire data lifecycle from recording to quality assurance.
+<p>Specialized in building high-precision datasets for AI training. Managed the entire data lifecycle from recording to quality assurance.</p>
 
-- 🎙️ Successfully curated and annotated **100+ hours of native Odia audio** (Ganjami dialect)
-- 📝 Managed full data lifecycle: authentic conversational speech recording → structured **JSON transcripts** → rigorous **QA**
-- 🤖 Supported development of **ASR (Automatic Speech Recognition)** and **NLP models**
-- ✅ Ensured **99%+ accuracy** through systematic validation and error correction processes
-- 🗣️ Applied skills in **Speech-to-Text Synthesis** and data annotation best practices
+<ul>
+<li>🎙️ Successfully curated and annotated <b>100+ hours of native Odia audio</b> (Ganjami dialect)</li>
+<li>📝 Managed full data lifecycle: authentic conversational speech recording → structured <b>JSON transcripts</b> → rigorous <b>QA</b></li>
+<li>🤖 Supported development of <b>ASR (Automatic Speech Recognition)</b> and <b>NLP models</b></li>
+<li>✅ Ensured <b>99%+ accuracy</b> through systematic validation and error correction processes</li>
+<li>🗣️ Applied skills in <b>Speech-to-Text Synthesis</b> and data annotation best practices</li>
+</ul>
 
 </details>
 
 <!-- IBM FEWD Intern -->
 <details open>
 <summary><b>🔷 Front End Web Development Intern — IBM SkillsBuild Student Ambassador Program</b></summary>
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;📅 **June 2024 – August 2024** &nbsp;|&nbsp; 📍 Remote &nbsp;|&nbsp; 🏢 IBM SkillsBuild × CSRBOX
+&nbsp;&nbsp;&nbsp;&nbsp;📅 <b>June 2024 – August 2024</b> &nbsp;|&nbsp; 📍 Remote &nbsp;|&nbsp; 🏢 IBM SkillsBuild × CSRBOX
 
-Completed a 6-week project-integrated learning experience focused on Front End Web Development. Built responsive web pages and gained practical skills.
+<p>Completed a 6-week project-integrated learning experience focused on Front End Web Development. Built responsive web pages and gained practical skills.</p>
 
-| Area | Details |
-|------|---------|
-| 💻 **Focus** | Front End Web Development (HTML5, CSS3, JavaScript) |
-| 🎨 **Skills** | UI Design, Responsive Layouts, Project Management, Google Workspace, Canva |
-| 🚀 **Outcome** | Built multiple responsive web pages with modern UI/UX principles |
+<table>
+<thead>
+<tr><th>Area</th><th>Details</th></tr>
+</thead>
+<tbody>
+<tr><td>💻 <b>Focus</b></td><td>Front End Web Development (HTML5, CSS3, JavaScript)</td></tr>
+<tr><td>🎨 <b>Skills</b></td><td>UI Design, Responsive Layouts, Project Management, Google Workspace, Canva</td></tr>
+<tr><td>🚀 <b>Outcome</b></td><td>Built multiple responsive web pages with modern UI/UX principles</td></tr>
+</tbody>
+</table>
 
 </details>
 
@@ -452,12 +467,17 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 <summary><b>📊 Data Science & AI</b></summary>
 <br/>
 
-| Badge | Certification | Issuer | Date |
-|:-----:|---------------|--------|------|
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | **Data Analysis Using Python** | IBM SkillsBuild | Jul 2025 |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | **Big Data 101** | IBM SkillsBuild | Jul 2025 |
-| ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | **Data Fundamentals** | AI Campus Connect | Jul 2025 |
-| ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) | **AI For Everyone** | Coursera (deeplearning.ai) | Jul 2024 |
+<table>
+<thead>
+<tr><th align="center">Badge</th><th>Certification</th><th>Issuer</th><th>Date</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /></td><td><b>Data Analysis Using Python</b></td><td>IBM SkillsBuild</td><td>Jul 2025</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /></td><td><b>Big Data 101</b></td><td>IBM SkillsBuild</td><td>Jul 2025</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI" /></td><td><b>Data Fundamentals</b></td><td>AI Campus Connect</td><td>Jul 2025</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera" /></td><td><b>AI For Everyone</b></td><td>Coursera (deeplearning.ai)</td><td>Jul 2024</td></tr>
+</tbody>
+</table>
 
 </details>
 
@@ -465,9 +485,14 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 <summary><b>💻 Web Development</b></summary>
 <br/>
 
-| Badge | Certification | Issuer | Date |
-|:-----:|---------------|--------|------|
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | **Web Development Fundamentals** | IBM SkillsBuild | Jul 2024 |
+<table>
+<thead>
+<tr><th align="center">Badge</th><th>Certification</th><th>Issuer</th><th>Date</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /></td><td><b>Web Development Fundamentals</b></td><td>IBM SkillsBuild</td><td>Jul 2024</td></tr>
+</tbody>
+</table>
 
 </details>
 
@@ -475,13 +500,18 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 <summary><b>🌐 Networking & Hardware (Cisco Networking Academy)</b></summary>
 <br/>
 
-| Badge | Certification | Issuer | Date |
-|:-----:|---------------|--------|------|
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **CCNA: Enterprise Networking, Security, and Automation** | Cisco | Nov 2023 |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **CCNA: Introduction to Networks** | Cisco | May 2023 |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **Introduction to Cybersecurity** | Cisco | — |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **IT Essentials** | Cisco | May 2022 |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | **Computer Hardware & Maintenance** | Cisco | May 2024 |
+<table>
+<thead>
+<tr><th align="center">Badge</th><th>Certification</th><th>Issuer</th><th>Date</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td><td><b>CCNA: Enterprise Networking, Security, and Automation</b></td><td>Cisco</td><td>Nov 2023</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td><td><b>CCNA: Introduction to Networks</b></td><td>Cisco</td><td>May 2023</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td><td><b>Introduction to Cybersecurity</b></td><td>Cisco</td><td>—</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td><td><b>IT Essentials</b></td><td>Cisco</td><td>May 2022</td></tr>
+<tr><td align="center"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td><td><b>Computer Hardware & Maintenance</b></td><td>Cisco</td><td>May 2024</td></tr>
+</tbody>
+</table>
 
 </details>
 
