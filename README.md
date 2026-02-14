@@ -15,6 +15,9 @@
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge" alt="Portfolio" />
   </a>
+  <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
+    <img src="https://komarev.com/ghpvc/?username=subhasish-sahu&style=for-the-badge&label=PAGE+VIEWS+COUNTS" alt="Views" />
+  </a>
   <a href="https://www.linkedin.com/in/subhasish-sahu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
