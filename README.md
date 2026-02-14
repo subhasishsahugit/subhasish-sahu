@@ -639,7 +639,9 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <br/>
 
- ### 🚀 <b>"Passionate about technology. Committed to continuous learning. Ready to make an impact."</b>
+ <h3>
+   🚀 <b>"Passionate about technology. Committed to continuous learning. Ready to make an impact."</b>
+ </h3>
 
 <p>
   <i>⭐ If you like what you see, consider giving a star to my <a href="https://github.com/subhasishsahugit/subhasish-sahu">profile repo</a>!</i>
