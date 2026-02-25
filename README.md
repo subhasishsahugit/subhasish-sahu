@@ -12,6 +12,9 @@
   <a href="https://flowcv.com/resume/3bj1qd6s1gwd">
     <img src="https://img.shields.io/badge/📄_ATS_Resume-View-FF4444?style=for-the-badge" alt="Resume" />
   </a>
+  <a href="https://flowcv.com/resume/ns4rccwcss8h">
+    <img src="https://img.shields.io/badge/📄_HRCV-View-FF4444?style=for-the-badge" alt="Resume" />
+  </a>
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge" alt="Portfolio" />
   </a>
