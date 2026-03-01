@@ -353,8 +353,8 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 ### 🌐 Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=vmware&logoColor=white)
-![Computer Hardware](https://img.shields.io/badge/IT_Hardware-FF6B6B?style=for-the-badge&logo=dell&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-IT_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Computer Hardware](https://img.shields.io/badge/IT_Hardware-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
