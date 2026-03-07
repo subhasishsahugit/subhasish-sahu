@@ -9,10 +9,10 @@
 
 <!-- ===== SOCIAL & PROFILE BADGES ===== -->
 <p>
-  <a href="https://flowcv.com/resume/3bj1qd6s1gwd">
+  <a href="https://flowcv.com/resume/4hm7jcksjb91">
     <img src="https://img.shields.io/badge/📄_ATS_Resume-View-FF4444?style=for-the-badge" alt="Resume" />
   </a>
-  <a href="https://flowcv.com/resume/ns4rccwcss8h">
+  <a href="https://flowcv.com/resume/3bj1qd6s1gwd">
     <img src="https://img.shields.io/badge/📄_HRCV-View-FF4444?style=for-the-badge" alt="Resume" />
   </a>
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
