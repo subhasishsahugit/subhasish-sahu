@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://subhasishsahugit.github.io/subhasish-sahu/">
-    <img src="https://komarev.com/ghpvc/?username=subhasish-sahu&style=for-the-badge&label=PAGE+VIEWS+COUNTS" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=subhasishsahugit&style=for-the-badge&label=PAGE+VIEWS+COUNTS" alt="Views" />
   </a>
   <a href="https://www.linkedin.com/in/subhasish-sahu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -559,7 +559,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- Top Languages -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhasishsahugit&theme=tokyonight" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasishsahugit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 <!-- Activity Graph -->
 <img width="98%" style="max-width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
