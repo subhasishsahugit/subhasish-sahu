@@ -60,6 +60,20 @@
 
 ---
 
+## 📌 Quick Navigation
+
+- [About Me](#about-me)
+- [Education](#education)
+- [Professional Experience](#professional-experience)
+- [Featured Projects](#featured-projects)
+- [Tech Stack & Skills](#tech-stack--skills)
+- [Core Competencies](#core-competencies)
+- [Certifications & Training](#certifications--training)
+- [Languages](#languages)
+- [GitHub Statistics](#github-statistics)
+- [Badges & Achievements](#badges--achievements)
+- [Let's Connect](#lets-connect)
+
 <!-- ===== ABOUT ME ===== -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp; About Me
@@ -67,6 +81,12 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="max-width: 40%;" alt="Coding GIF" />
 
 3rd-year **Computer Science & Engineering** student at **[NIST University](https://nist.edu/), Odisha** with practical experience in **Data Analytics, Artificial Intelligence, Machine Learning, IoT,** and **Full Stack Development**. Proven track record of building high-precision NLP datasets and responsive web applications. Passionate about solving real-world problems through technology.
+
+**Highlights**
+- 🎓 B.Tech CSE student focused on AI/ML, data, and full-stack systems
+- 🧩 Strengths in NLP datasets, responsive web apps, and analytics
+- 🛠️ Core languages: Python, Java, C, SQL, JavaScript
+- 🤝 Open to internships, collaborations, and mentorship
 
 ```yaml
 name: Subhasish Sahu
@@ -539,7 +559,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- Top Languages -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhasish-sahu&theme=tokyonight" alt="Top Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhasishsahugit&theme=tokyonight" alt="Top Languages Card" />
 </p>
 <!-- Activity Graph -->
 <img width="98%" style="max-width: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=subhasishsahugit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
