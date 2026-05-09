@@ -553,7 +553,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- Stats & Streak side by side -->
 <p>
-  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=subhasishsahugit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" style="max-width: 100%;" src="https://streak-stats.demolab.com/?user=subhasishsahugit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
