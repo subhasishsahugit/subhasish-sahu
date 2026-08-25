@@ -76,6 +76,7 @@
 
 <!-- ===== ABOUT ME ===== -->
 
+<a id="about-me"></a>
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp; About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="max-width: 40%;" alt="Coding GIF" />
@@ -125,6 +126,7 @@ open_to:
 
 <!-- ===== EDUCATION ===== -->
 
+<a id="education"></a>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Education
 
 <table markdown="1">
@@ -171,6 +173,7 @@ Completed three-year technical diploma at Uma Charan Patnaik Engineering School.
 
 <!-- ===== PROFESSIONAL EXPERIENCE ===== -->
 
+<a id="professional-experience"></a>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Professional Experience
 
 <!-- IBM DA Intern -->
@@ -240,6 +243,7 @@ Completed three-year technical diploma at Uma Charan Patnaik Engineering School.
 
 <!-- ===== PROJECTS ===== -->
 
+<a id="featured-projects"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <table markdown="1">
@@ -331,6 +335,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== TECH STACK ===== -->
 
+<a id="tech-stack--skills"></a>
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack & Skills
 
 <div align="center" markdown="1">
@@ -382,6 +387,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== CORE COMPETENCIES ===== -->
 
+<a id="core-competencies"></a>
 ## 🎯 Core Competencies
 
 <table markdown="1">
@@ -470,6 +476,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== CERTIFICATIONS ===== -->
 
+<a id="certifications--training"></a>
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> Certifications & Training
 
 <details open>
@@ -528,6 +535,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== LANGUAGES ===== -->
 
+<a id="languages"></a>
 ## 🗣️ Languages
 
 <div align="center" markdown="1">
@@ -542,6 +550,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== GITHUB STATISTICS ===== -->
 
+<a id="github-statistics"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Statistics
 
 <div align="center" markdown="1">
@@ -577,6 +586,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== BADGES & ACHIEVEMENTS ===== -->
 
+<a id="badges--achievements"></a>
 ## 🏅 Badges & Achievements
 
 <div align="center" markdown="1">
@@ -600,6 +610,7 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
 
 <!-- ===== CONNECT ===== -->
 
+<a id="lets-connect"></a>
 ## 🤝 Let's Connect!
 
 <div align="center">
