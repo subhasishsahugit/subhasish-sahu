@@ -90,22 +90,12 @@ interests:
   - 🔗 Computer Networking (CCNA)
   - 📡 Internet of Things (IoT)
 
-currently_building: "FoodSave — AI-powered food wastage reduction platform 🍽️"
-
-currently_learning:
-  - Advanced Python for Data Science
-  - Big Data Technologies & ML Model Development
-  - Enterprise Networking & Cloud Infrastructure
-
 open_to:
   - 💼 Internship & Full-time Opportunities
   - 🤝 Open Source Collaborations
   - 🧠 Mentorship & Guidance
   - 🚀 Real-World Projects
 ```
-
-> *"Dedicated to building real-world skills through consistent practice and hands-on learning. Always seeking to apply technical knowledge to solve meaningful problems and contribute to impactful projects."*
-
 <br clear="right"/>
 
 ---
@@ -124,8 +114,7 @@ open_to:
 ### B.Tech, Computer Science & Engineering — [NIST University](https://nist.edu/) (BPUT Board)
 📅 **August 2024 – Present** &nbsp;|&nbsp; 📍 Ganjam, Odisha &nbsp;|&nbsp; 📊 **SGPA: 8.22 / 10**
 
-Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks, Data Structures & Algorithms, Operating Systems, Computer Organisation & Architecture,** and **DBMS**. Developed strong coding skills in **C, Java, and Python**. Primary specializations: **AI/ML, Full-Stack Development, and Data Science**. Currently building *[FoodSave](https://subhasishsahugit.github.io/FoodSave/)*, a full-stack platform with ML integration for food wastage reduction.
-
+Pursuing comprehensive B.Tech in CSE 
 </td>
 </tr>
 <tr>
@@ -137,8 +126,7 @@ Pursuing comprehensive B.Tech in CSE with academic focus on **Computer Networks,
 ### Diploma, Computer Science & Engineering — UCPES (SCTE & VT Board)
 📅 **2021 – 2024** &nbsp;|&nbsp; 📍 Odisha &nbsp;|&nbsp; 📊 **Performance: 81.65%**
 
-Completed three-year technical diploma at Uma Charan Patnaik Engineering School. Focused on core CS fundamentals: **C Programming, Java, Python, Web Development, DBMS, Operating Systems, and Data Structures**. Developed strong practical skills through hands-on lab sessions. Final semester projects: *[Educational Resource Portal](https://subhasishsahugit.github.io/Elearning/)* (Web Development major) and *[Auto Irrigation System](https://subhasishsahugit.github.io/diploma-Iot/)* (IoT Lab).
-
+Completed three-year technical diploma at Uma Charan Patnaik Engineering School.
 </td>
 </tr>
 <tr>
