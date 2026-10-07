@@ -9,7 +9,7 @@
 
 <!-- ===== SOCIAL & PROFILE BADGES ===== -->
 <p>
-  <a href="https://flowcv.com/resume/4hm7jcksjb91">
+  <a href="https://drive.google.com/file/d/1sN5OPg7ScvhINi2tUJy0tgOQ007f8t_8/view">
     <img src="https://img.shields.io/badge/📄_ATS_Resume-View-FF4444?style=for-the-badge" alt="Resume" />
   </a>
   <a href="https://flowcv.com/resume/3bj1qd6s1gwd">
