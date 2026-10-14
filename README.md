@@ -33,12 +33,6 @@
   <a href="https://github.com/subhasishsahugit">
     <img src="https://img.shields.io/badge/GitHub-subhasishsahugit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Newagi2026">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
   <a href="https://www.instagram.com/subhasishsahu_">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -562,12 +556,6 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
   <a href="https://huggingface.co/IamAGI">
     <img src="https://img.shields.io/badge/🤗_HuggingFace-IamAGI-FFD21E?style=for-the-badge" alt="HuggingFace" />
   </a>
-  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Newagi2026">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
 </p>
 </div>
 
@@ -593,12 +581,6 @@ An automated **smart irrigation system** using IoT sensors and microcontrollers.
   </a>
   <a href="https://github.com/subhasishsahugit">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Y0nhpcwCtx/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Newagi2026">
-    <img src="https://img.shields.io/badge/HackerRank-Code-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
